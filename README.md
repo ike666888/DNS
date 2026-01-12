@@ -7,4 +7,4 @@
 无需下载文件，直接在服务器终端执行以下命令即可：
 
 ```bash
-curl -fsSL [https://raw.githubusercontent.com/ike666888/DNS/main/DNS.sh](https://raw.githubusercontent.com/ike666888/DNS/main/DNS.sh) | sudo bash
+curl -fsSL https://raw.githubusercontent.com/ike666888/DNS/main/DNS.sh | sudo bash
