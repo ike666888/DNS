@@ -8,6 +8,7 @@
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/ike666888/DNS/main/DNS.sh | sudo bash
+
 ✨ 功能特点 (Features)
 ⚡️ 极速配置：一键将 DNS 设置为全球最快的 8.8.8.8 和 1.1.1.1。
 
